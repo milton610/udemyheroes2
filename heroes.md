@@ -7,3 +7,5 @@
 * Linterna Verde
 * Robin
 * Volcán Negro
+* Samuel es mi heroe
+* Sofia es mi heroe
